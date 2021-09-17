@@ -15,6 +15,6 @@ Some of the end results of these projects have been demonstrated below:
  High-pass filtered image of a cat</p>
 </p>
 <img src="/Images/pyramid.jpg" width="550" /> 
-<p>Hybrid image</p>
+<p>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hybrid image</p>
 One more example:
 <img src="/Images/pyramid2.png" width="550" /> 
